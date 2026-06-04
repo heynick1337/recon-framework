@@ -23,6 +23,9 @@ COMMON_PORTS = {
     8888: "HTTP-Dev",
     9200: "Elasticsearch",
     27017: "MongoDB",
+    8888: "Jupyter Notebook",
+    2181: "Zookeeper",
+    4443: "HTTPS-Alt",
 }
 
 
