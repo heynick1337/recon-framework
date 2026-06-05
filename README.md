@@ -55,6 +55,9 @@ Then open your browser at: `http://localhost:5000`
 
 1. Enter a target domain (e.g. `example.com`) — no `http://` needed
 2. Click **Start Scan**
+
+> **Legal practice target:** `testphp.vulnweb.com` — a deliberately vulnerable site safe to scan.
+
 3. Wait for each module to complete (status updates live)
 4. Review results in the dashboard
 5. Click **Download Report** to save a `.txt` report
