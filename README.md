@@ -4,6 +4,7 @@ A lightweight web-based reconnaissance tool built for bug bounty hunting and pen
 
 Built from the workflow I developed during 3 years of bug bounty hunting on HackerOne.
 
+## Screenshot
 ![screenshot](screenshot.png)
 
 ---
@@ -25,6 +26,7 @@ recon-framework/
 ├── app.py                  # Flask app + routing
 ├── requirements.txt
 ├── README.md
+├── screenshot.png
 ├── modules/
 │   ├── subdomains.py       # DNS subdomain enumeration
 │   ├── portscan.py         # TCP port scanner
