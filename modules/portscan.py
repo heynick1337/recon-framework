@@ -26,6 +26,9 @@ COMMON_PORTS = {
     8888: "Jupyter Notebook",
     2181: "Zookeeper",
     4443: "HTTPS-Alt",
+    161: "SNMP",
+    389: "LDAP",
+    1521: "Oracle DB",
 }
 
 
